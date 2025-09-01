@@ -32,8 +32,6 @@ Accessible by default: Semantic tags (header/main/section), meaningful alt, visi
 Tailwind only: Prettier + Tailwind plugin 
 
 ##  Lighthouse performance scores 
-Mobile
-[Download Lighthouse screenshot](Lighthouse docs/mobile-lighthouse.png)
-Desktop
-obile
-[Download Lighthouse screenshot](Lighthouse docs/desktop-lighthouse.png)
+[Download Lighthouse screenshot](<Lighthouse docs/mobile-lighthouse.png>)
+
+[Download Lighthouse screenshot](Lighthouse%20docs/mobile-lighthouse.png)
